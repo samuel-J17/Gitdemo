@@ -6,6 +6,8 @@ public class Basic {
 		String value = "Benjamine";
 		
 		System.out.println(value);
+		System.out.println("leobenjamine001");
+		System.out.println("leobenjamine002");
 	}
 
 }
