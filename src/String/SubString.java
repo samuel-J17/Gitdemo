@@ -2,7 +2,7 @@ package String;
 
 public class SubString {
 	public static void main(String[] arg) {
-		String s1 = "Welcome to Madurai";
+		String s1 = "Welcome to Chennai";
 		String m = s1.substring(2);
 		System.out.println(m);
 		String m1 = s1.substring(2, 6);
